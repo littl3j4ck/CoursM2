@@ -1,0 +1,14 @@
+git checkout -b dev (creation de la branche DEV)
+	-système de fichier change: 
+git checkout master ---> changer vers la branch master
+git remote -v----> dépo distant sur lequel tu peux push
+
+git branch --unset-upstream
+
+git show
+git log
+git dif
+git status
+git add
+git reset 
+
