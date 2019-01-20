@@ -1,0 +1,34 @@
+Interface utilisateur:
+	Une map openstreetmap en fond
+	Slide bar sur la gauche avec la liste des flux à décocher (tous cocher par défaut)
+	Slide bar du dessous afichant la liste des infos selon les flux coché qui ne peuvent pas être affiché sur la map
+
+4 flux pour testés:
+	Sur la map:
+		-Corbeille
+		-Toilette
+
+	Sur la slide bar du bas:
+		-TCL
+		-Température
+
+Test de la connexion internet et géolocalisation
+	-Demande de la connexion internet et géo
+	-Gestion de la géo sur la map
+
+API:
+	-récupérer les données
+	-Les afficher:
+			-Sur la map
+			-Sur la slide bar en bas
+	-Les MAJ
+
+-Mise à jour forcé par l'utilisateurs
+
+-Gestion des erreurs
+	-En cas de perte de connexion (internet et/ou géolocalisation)
+	-En cas de non réponse des serveurs
+
+-Sauvegarde des flux coché/non coché
+
+-Affichage des flux selon ce que on coche/décoche
