@@ -1,0 +1,11 @@
+#Jupyter Notebook checkpoints
+/.ipynb_checkpoints/*
+Solutions/.ipynb_checkpoints/*
+
+#Dataprep folder
+/data_prep/*
+
+TODO
+
+#Temporary database created during the exercises
+/data/test.db
