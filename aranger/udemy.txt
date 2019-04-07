@@ -1,0 +1,4 @@
+introduction au machine learning
+intelligene artificielle 
+machine learning de A a Z: Hand-on python 
+the data science course complete data science bootcamp (365 careers team)
